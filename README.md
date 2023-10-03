@@ -22,10 +22,10 @@ A simple and easy-to-use daily planner for scheduling your work day. This applic
 ## Links 
 
 
-[live UrL] (https://github.com/sunainaojha/Daily-Planner)/
+[live UrL] (https://sunainaojha.github.io/Daily-Planner)/
 
 [Github] 
-(https://github.com/sunainaojha/Daily-Planner/tree/main)/
+(https://github.com/sunainaojha/Daily-Planner)/
 
 
 ## Screenshots
