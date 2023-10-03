@@ -21,7 +21,7 @@ A simple and easy-to-use daily planner for scheduling your work day. This applic
 ## Links 
 
 
-[live UrL] 
+[live UrL] (https://sunainaojha.github.io/Daily-Planner/)
 
 [Github] 
 (https://github.com/sunainaojha/Daily-Planner/tree/main)/
@@ -31,4 +31,3 @@ A simple and easy-to-use daily planner for scheduling your work day. This applic
 ![projectpic.1](./assets/img-1.png)
 ![projectpic.2](./assets/img-2.png)
 ![projectpic.3](./assets/img-3.png)
-![projectpic.4](./assets/img-4.png)
